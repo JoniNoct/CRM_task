@@ -1,0 +1,6914 @@
+[
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Dubrovnik+-+Okolica",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Ora\u0161ac,+Dubrovnik+-+Okolica",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Kor\u010dula",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Bale",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Barban",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Manjadvorci,+Barban",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Melnica,+Barban",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Puntera,+Barban",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=\u0160ajini,+Barban",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Sutivanac,+Barban",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Bibali,+Buje",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Buje",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Buzet",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Ro\u010d,+Buzet",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Ro\u010dko+Polje,+Buzet",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Sovinjska+Brda,+Buzet",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Cerovlje",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Dragu\u0107,+Cerovlje",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Fa\u017eana",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Valbandon,+Fa\u017eana",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Gra\u010di\u0161\u0107e",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Milotski+Breg,+Gra\u010di\u0161\u0107e",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Gro\u017enjan",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=\u0160terna,+Gro\u017enjan",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Buri\u0107i,+Kanfanar",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Jural,+Kanfanar",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Kanfanar",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Mari\u0107i,+Kanfanar",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Mrgani,+Kanfanar",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=So\u0161i\u0107i,+Kanfanar",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Karojba",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Novaki+Motovunski,+Karojba",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Rakotule,+Karojba",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Ka\u0161telir,+Ka\u0161telir-Labinci",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Ka\u0161telir-Labinci",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Labinci,+Ka\u0161telir-Labinci",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Rogovi\u0107i,+Ka\u0161telir-Labinci",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Tadini,+Ka\u0161telir-Labinci",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Kr\u0161an",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Plomin,+Kr\u0161an",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=\u0160u\u0161njevica,+Kr\u0161an",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Vozili\u0107i,+Kr\u0161an",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Labin",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Rabac,+Labin",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Ripenda+Kras,+Labin",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Boljunsko+Polje,+Lupoglav",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Lesi\u0161\u0107ina,+Lupoglav",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Lupoglav",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Duga+Uvala,+Mar\u010dana",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Krnica,+Mar\u010dana",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Loborika,+Mar\u010dana",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Mali+Vare\u0161ki,+Mar\u010dana",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Mar\u010dana",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Peru\u0161ki,+Mar\u010dana",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Rakalj,+Mar\u010dana",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=\u0160egoti\u0107i,+Mar\u010dana",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Medulin",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Pomer,+Medulin",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Vinkuran,+Medulin",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Brka\u010d,+Motovun",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Motovun",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Bu\u017einija,+Novigrad",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Novigrad",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Livade,+Oprtalj",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Oprtalj",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Beram,+Pazin+-+Okolica",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Brajkovi\u0107i,+Pazin+-+Okolica",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Heki,+Pazin+-+Okolica",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Lindar,+Pazin+-+Okolica",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Pazin+-+Okolica",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Trvi\u017e,+Pazin+-+Okolica",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Pi\u0107an",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Baderna,+Pore\u010d",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Bui\u0107i,+Pore\u010d",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=\u010cervar-Porat,+Pore\u010d",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Fu\u0161kulin,+Pore\u010d",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Gedi\u0107i,+Pore\u010d",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Jehni\u0107i,+Pore\u010d",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Mihatovi\u0107i,+Pore\u010d",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Mu\u0161ale\u017e,+Pore\u010d",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Nova+Vas,+Pore\u010d",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Pore\u010d",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Ro\u0161ini,+Pore\u010d",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Strani\u0107i+kod+Nove+Vasi,+Pore\u010d",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=\u017dbandaj,+Pore\u010d",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Busoler,+Pula",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Centar,+Pula",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Monte+Zaro,+Pula",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Monteghiro,+Pula",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Pula",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=\u0160iki\u0107i,+Pula",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=\u0160tinjan,+Pula",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Veli+vrh,+Pula",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Veruda,+Pula",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Vidikovac,+Pula",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Kunj,+Ra\u0161a",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Ra\u0161a",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Rovinj",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Rovinjsko+Selo,+Rovinj",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Nede\u0161\u0107ina,+Sveta+Nedelja",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Santalezi,+Sveta+Nedelja",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Sveta+Nedelja",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Flengi,+Sveti+Lovre\u010d",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Krun\u010di\u0107i,+Sveti+Lovre\u010d",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Lakovi\u0107i,+Sveti+Lovre\u010d",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Radi\u0107i,+Sveti+Lovre\u010d",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Sveti+Lovre\u010d",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Sveti+Petar+U+\u0160umi",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Bibi\u0107i,+Svetvin\u010denat",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Bo\u0161kari,+Svetvin\u010denat",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Bri\u010danci,+Svetvin\u010denat",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Butkovi\u0107i,+Svetvin\u010denat",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=\u010cabruni\u0107i,+Svetvin\u010denat",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Jur\u0161i\u0107i,+Svetvin\u010denat",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Re\u017eanci,+Svetvin\u010denat",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Smoljanci,+Svetvin\u010denat",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=\u0160tokovci,+Svetvin\u010denat",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Svetvin\u010denat",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Jakovici,+Tinjan",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Kringa,+Tinjan",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Tinjan",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Savudrija,+Umag",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Umag",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Cerion,+Vi\u0161njan",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Legovi\u0107i,+Vi\u0161njan",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Pr\u0161uri\u0107i,+Vi\u0161njan",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Radovani,+Vi\u0161njan",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Vi\u0161njan",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Zori\u010di\u0107i,+Vi\u0161njan",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Vi\u017einada",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Gajana,+Vodnjan",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Vodnjan",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Vrsar",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Cere,+\u017dminj",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Modru\u0161ani,+\u017dminj",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Mu\u017eini,+\u017dminj",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Pami\u0107i,+\u017dminj",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Rudani,+\u017dminj",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=\u017dminj",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Josipdol",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Ogulin",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Vitunj,+Ogulin",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Karlobag",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Novalja",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Stara+Novalja,+Novalja",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Bunica-bili\u010devica,+Senj",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Klada,+Senj",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Krivi+Put,+Senj",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Senj",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Sveti+Juraj,+Senj",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Jug+II,+Osijek",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Osijek",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Bakar",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Bakar-dio,+Bakar",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Hreljin,+Bakar",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Krasica,+Bakar",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Kukuljanovo,+Bakar",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Praputnjak,+Bakar",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=\u0160krljevo,+Bakar",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Zlobin,+Bakar",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Ba\u0161ka",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Draga+Ba\u0161\u0107anska,+Ba\u0161ka",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Jurandvor,+Ba\u0161ka",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Cres",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Porozina,+Cres",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Crikvenica",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Dramalj,+Crikvenica",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Jadranovo,+Crikvenica",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Selce,+Crikvenica",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=\u010cabar",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Gerovo,+\u010cabar",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Tr\u0161\u0107e,+\u010cabar",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Buzdohanj,+\u010cavle",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=\u010cavle",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Cernik,+\u010cavle",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Grobnik,+\u010cavle",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Mavrinci,+\u010cavle",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Podrvanj,+\u010cavle",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Soboli,+\u010cavle",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Crni+Lug,+Delnice",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Delnice",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=\u010ci\u017ei\u0107i,+Dobrinj",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Dobrinj",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Hlapa,+Dobrinj",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Kras,+Dobrinj",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Rasopasno,+Dobrinj",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=\u0160ilo,+Dobrinj",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Soline,+Dobrinj",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Fu\u017eine",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Li\u010d,+Fu\u017eine",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Vrata,+Fu\u017eine",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Dra\u017eice,+Jelenje",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Jelenje",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Lopa\u010da,+Jelenje",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Podhum,+Jelenje",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Podkilavac,+Jelenje",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Trnovica,+Jelenje",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Brestovice,+Kastav",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=\u0106ikovi\u0107i,+Kastav",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Frlani,+Kastav",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Kastav",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Re\u0161etari,+Kastav",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Rube\u0161i,+Kastav",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Spin\u010di\u0107i,+Kastav",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=\u017degoti,+Kastav",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Breza,+Klana",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Klana",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Lisac,+Klana",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Dori\u010di\u0107i,+Kostrena",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Glavani,+Kostrena",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Kostrena",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Kostrena+Sveta+Barbara,+Kostrena",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Kostrena+Sveta+Lucija,+Kostrena",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Martin\u0161\u0107ica,+Kostrena",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Paveki,+Kostrena",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Ro\u017emani\u0107i,+Kostrena",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=\u0160odi\u0107i,+Kostrena",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Urinj,+Kostrena",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=\u017duknica,+Kostrena",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Kraljevica",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Kri\u017ei\u0161\u0107e,+Kraljevica",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=\u0160mrika,+Kraljevica",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Baj\u010di\u0107i,+Krk",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Brzac,+Krk",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Korni\u0107,+Krk",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Krk",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Lakmartin,+Krk",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Linardi\u0107i,+Krk",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Milohni\u0107i,+Krk",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Vrh,+Krk",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Lokve",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Liganj,+Lovran",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Lovran",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Lovranska+Draga,+Lovran",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Mali+Lo\u0161inj",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Punta+Kri\u017ea,+Mali+Lo\u0161inj",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Sveti+Jakov,+Mali+Lo\u0161inj",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Bogovi\u0107i,+Malinska-Duba\u0161nica",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Kremeni\u0107i,+Malinska-Duba\u0161nica",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Malinska,+Malinska-Duba\u0161nica",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Malinska-Duba\u0161nica",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Mil\u010deti\u0107i,+Malinska-Duba\u0161nica",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Vanta\u010di\u0107i,+Malinska-Duba\u0161nica",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Bregi,+Matulji",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Jurdani,+Matulji",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Ju\u0161i\u0107i,+Matulji",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Lipa,+Matulji",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Male+Mune,+Matulji",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Mali+Brgud,+Matulji",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Matulji",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Mihoti\u0107i,+Matulji",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Mu\u010di\u0107i,+Matulji",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Permani,+Matulji",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Rukavac,+Matulji",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=\u0160apjane,+Matulji",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Veli+Brgud,+Matulji",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Zvone\u0107a,+Matulji",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Brse\u010d,+Mo\u0161\u0107eni\u010dka+Draga",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Mo\u0161\u0107eni\u010dka+Draga",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Begovo+Razdolje,+Mrkopalj",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Mrkopalj",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Sunger,+Mrkopalj",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Tuk+Vojni,+Mrkopalj",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Bater,+Novi+Vinodolski",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Donji+Zagon,+Novi+Vinodolski",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Klenovica,+Novi+Vinodolski",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Novi+Vinodolski",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Povile,+Novi+Vinodolski",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Smokvica+Krmpotska,+Novi+Vinodolski",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Njivice,+Omi\u0161alj",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Omi\u0161alj",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Kosi\u0107evo,+Opatija",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Opatija",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Opatija+-+Centar,+Opatija",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Volosko,+Opatija",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Vrutki,+Opatija",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=I\u010di\u0107i,+Opatija+-+Okolica",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Ika,+Opatija+-+Okolica",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Opatija+-+Okolica",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Pobri,+Opatija+-+Okolica",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Poljane,+Opatija+-+Okolica",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Veprinac,+Opatija+-+Okolica",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Punat",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Stara+Ba\u0161ka,+Punat",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Banjol,+Rab",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Barbat+na+Rabu,+Rab",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Kampor,+Rab",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Lopar,+Rab",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Mundanije,+Rab",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Palit,+Rab",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Rab",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Supetarska+Draga,+Rab",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Kupjak,+Ravna+Gora",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Ravna+Gora",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Stari+Laz,+Ravna+Gora",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Banderovo,+Rijeka",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Belveder,+Rijeka",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Bivio,+Rijeka",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Brajda,+Rijeka",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Bulevard,+Rijeka",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Centar,+Rijeka",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Donja+Ve\u017eica,+Rijeka",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Draga,+Rijeka",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Drenova,+Rijeka",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Gornja+Ve\u017eica,+Rijeka",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Hosti,+Rijeka",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Kantrida,+Rijeka",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Kozala,+Rijeka",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Krimeja,+Rijeka",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Krnjevo,+Rijeka",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Mar\u010deljeva+Draga,+Rijeka",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Martinkovac,+Rijeka",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Mlaka,+Rijeka",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Pe\u0107ine,+Rijeka",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Pehlin,+Rijeka",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Podmurvice,+Rijeka",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Potok,+Rijeka",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Pulac,+Rijeka",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Rasto\u010dine,+Rijeka",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Rijeka",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=\u0160kolji\u0107,+Rijeka",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=\u0160kurinje,+Rijeka",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Srdo\u010di,+Rijeka",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Su\u0161ak,+Rijeka",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Sveti+Kuzam,+Rijeka",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Svilno,+Rijeka",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Trsat,+Rijeka",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Turni\u0107,+Rijeka",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Vojak,+Rijeka",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Zamet,+Rijeka",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Bukov+Vrh,+Skrad",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Divjake,+Skrad",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Skrad",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Bribir,+Vinodolska+Op\u0107ina",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Drivenik,+Vinodolska+Op\u0107ina",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Gri\u017eane-Belgrad,+Vinodolska+Op\u0107ina",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Tribalj,+Vinodolska+Op\u0107ina",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Vinodolska+Op\u0107ina",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Kosi,+Vi\u0161kovo",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Mar\u010delji,+Vi\u0161kovo",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Marini\u0107i,+Vi\u0161kovo",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Mladeni\u0107i,+Vi\u0161kovo",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Sar\u0161oni,+Vi\u0161kovo",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Sroki,+Vi\u0161kovo",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Vi\u0161kovo",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Vrbnik",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Dokmanovi\u0107i,+Vrbovsko",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Hambari\u0161te,+Vrbovsko",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Moravice,+Vrbovsko",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Severin+na+Kupi,+Vrbovsko",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Ti\u0107i,+Vrbovsko",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Vrbovsko",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Jelsa",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Vrboska,+Jelsa",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=\u010ciovo,+Trogir",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Trogir",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Jezera,+Tisno",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Tisno",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Vodice",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Biograd+na+Moru",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Kru\u0161evo,+Obrovac",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Obrovac",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Dinji\u0161ka,+Pag",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Pag",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Pa\u0161man",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=\u017ddrelac,+Pa\u0161man",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Povljana",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Ra\u017eanac",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Seline,+Starigrad",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Starigrad",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Sveti+Filip+I+Jakov",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Turanj,+Sveti+Filip+I+Jakov",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Ist,+Zadar+-+Okolica",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Premuda,+Zadar+-+Okolica",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Silba,+Zadar+-+Okolica",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Zadar+-+Okolica",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Dubrava",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Habjanovac,+Dubrava",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Tar,+Tar-Vabriga",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Tar-Vabriga",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Vabriga,+Tar-Vabriga",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Vrsi",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Kolan",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=1&location=Mandre,+Kolan",
+    "meta": {
+      "type": "sale_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Dubrovnik+-+Okolica",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Ora\u0161ac,+Dubrovnik+-+Okolica",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Kor\u010dula",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Bale",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Barban",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Manjadvorci,+Barban",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Melnica,+Barban",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Puntera,+Barban",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=\u0160ajini,+Barban",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Sutivanac,+Barban",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Bibali,+Buje",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Buje",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Buzet",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Ro\u010d,+Buzet",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Ro\u010dko+Polje,+Buzet",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Sovinjska+Brda,+Buzet",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Cerovlje",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Dragu\u0107,+Cerovlje",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Fa\u017eana",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Valbandon,+Fa\u017eana",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Gra\u010di\u0161\u0107e",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Milotski+Breg,+Gra\u010di\u0161\u0107e",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Gro\u017enjan",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=\u0160terna,+Gro\u017enjan",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Buri\u0107i,+Kanfanar",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Jural,+Kanfanar",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Kanfanar",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Mari\u0107i,+Kanfanar",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Mrgani,+Kanfanar",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=So\u0161i\u0107i,+Kanfanar",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Karojba",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Novaki+Motovunski,+Karojba",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Rakotule,+Karojba",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Ka\u0161telir,+Ka\u0161telir-Labinci",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Ka\u0161telir-Labinci",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Labinci,+Ka\u0161telir-Labinci",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Rogovi\u0107i,+Ka\u0161telir-Labinci",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Tadini,+Ka\u0161telir-Labinci",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Kr\u0161an",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Plomin,+Kr\u0161an",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=\u0160u\u0161njevica,+Kr\u0161an",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Vozili\u0107i,+Kr\u0161an",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Labin",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Rabac,+Labin",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Ripenda+Kras,+Labin",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Boljunsko+Polje,+Lupoglav",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Lesi\u0161\u0107ina,+Lupoglav",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Lupoglav",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Duga+Uvala,+Mar\u010dana",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Krnica,+Mar\u010dana",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Loborika,+Mar\u010dana",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Mali+Vare\u0161ki,+Mar\u010dana",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Mar\u010dana",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Peru\u0161ki,+Mar\u010dana",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Rakalj,+Mar\u010dana",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=\u0160egoti\u0107i,+Mar\u010dana",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Medulin",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Pomer,+Medulin",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Vinkuran,+Medulin",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Brka\u010d,+Motovun",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Motovun",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Bu\u017einija,+Novigrad",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Novigrad",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Livade,+Oprtalj",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Oprtalj",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Beram,+Pazin+-+Okolica",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Brajkovi\u0107i,+Pazin+-+Okolica",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Heki,+Pazin+-+Okolica",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Lindar,+Pazin+-+Okolica",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Pazin+-+Okolica",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Trvi\u017e,+Pazin+-+Okolica",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Pi\u0107an",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Baderna,+Pore\u010d",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Bui\u0107i,+Pore\u010d",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=\u010cervar-Porat,+Pore\u010d",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Fu\u0161kulin,+Pore\u010d",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Gedi\u0107i,+Pore\u010d",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Jehni\u0107i,+Pore\u010d",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Mihatovi\u0107i,+Pore\u010d",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Mu\u0161ale\u017e,+Pore\u010d",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Nova+Vas,+Pore\u010d",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Pore\u010d",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Ro\u0161ini,+Pore\u010d",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Strani\u0107i+kod+Nove+Vasi,+Pore\u010d",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=\u017dbandaj,+Pore\u010d",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Busoler,+Pula",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Centar,+Pula",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Monte+Zaro,+Pula",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Monteghiro,+Pula",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Pula",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=\u0160iki\u0107i,+Pula",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=\u0160tinjan,+Pula",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Veli+vrh,+Pula",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Veruda,+Pula",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Vidikovac,+Pula",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Kunj,+Ra\u0161a",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Ra\u0161a",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Rovinj",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Rovinjsko+Selo,+Rovinj",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Nede\u0161\u0107ina,+Sveta+Nedelja",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Santalezi,+Sveta+Nedelja",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Sveta+Nedelja",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Flengi,+Sveti+Lovre\u010d",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Krun\u010di\u0107i,+Sveti+Lovre\u010d",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Lakovi\u0107i,+Sveti+Lovre\u010d",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Radi\u0107i,+Sveti+Lovre\u010d",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Sveti+Lovre\u010d",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Sveti+Petar+U+\u0160umi",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Bibi\u0107i,+Svetvin\u010denat",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Bo\u0161kari,+Svetvin\u010denat",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Bri\u010danci,+Svetvin\u010denat",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Butkovi\u0107i,+Svetvin\u010denat",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=\u010cabruni\u0107i,+Svetvin\u010denat",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Jur\u0161i\u0107i,+Svetvin\u010denat",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Re\u017eanci,+Svetvin\u010denat",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Smoljanci,+Svetvin\u010denat",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=\u0160tokovci,+Svetvin\u010denat",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Svetvin\u010denat",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Jakovici,+Tinjan",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Kringa,+Tinjan",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Tinjan",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Savudrija,+Umag",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Umag",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Cerion,+Vi\u0161njan",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Legovi\u0107i,+Vi\u0161njan",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Pr\u0161uri\u0107i,+Vi\u0161njan",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Radovani,+Vi\u0161njan",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Vi\u0161njan",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Zori\u010di\u0107i,+Vi\u0161njan",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Vi\u017einada",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Gajana,+Vodnjan",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Vodnjan",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Vrsar",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Cere,+\u017dminj",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Modru\u0161ani,+\u017dminj",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Mu\u017eini,+\u017dminj",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Pami\u0107i,+\u017dminj",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Rudani,+\u017dminj",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=\u017dminj",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Josipdol",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Ogulin",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Vitunj,+Ogulin",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Karlobag",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Novalja",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Stara+Novalja,+Novalja",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Bunica-bili\u010devica,+Senj",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Klada,+Senj",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Krivi+Put,+Senj",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Senj",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Sveti+Juraj,+Senj",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Jug+II,+Osijek",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Osijek",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Bakar",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Bakar-dio,+Bakar",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Hreljin,+Bakar",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Krasica,+Bakar",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Kukuljanovo,+Bakar",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Praputnjak,+Bakar",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=\u0160krljevo,+Bakar",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Zlobin,+Bakar",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Ba\u0161ka",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Draga+Ba\u0161\u0107anska,+Ba\u0161ka",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Jurandvor,+Ba\u0161ka",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Cres",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Porozina,+Cres",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Crikvenica",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Dramalj,+Crikvenica",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Jadranovo,+Crikvenica",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Selce,+Crikvenica",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=\u010cabar",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Gerovo,+\u010cabar",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Tr\u0161\u0107e,+\u010cabar",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Buzdohanj,+\u010cavle",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=\u010cavle",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Cernik,+\u010cavle",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Grobnik,+\u010cavle",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Mavrinci,+\u010cavle",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Podrvanj,+\u010cavle",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Soboli,+\u010cavle",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Crni+Lug,+Delnice",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Delnice",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=\u010ci\u017ei\u0107i,+Dobrinj",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Dobrinj",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Hlapa,+Dobrinj",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Kras,+Dobrinj",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Rasopasno,+Dobrinj",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=\u0160ilo,+Dobrinj",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Soline,+Dobrinj",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Fu\u017eine",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Li\u010d,+Fu\u017eine",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Vrata,+Fu\u017eine",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Dra\u017eice,+Jelenje",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Jelenje",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Lopa\u010da,+Jelenje",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Podhum,+Jelenje",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Podkilavac,+Jelenje",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Trnovica,+Jelenje",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Brestovice,+Kastav",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=\u0106ikovi\u0107i,+Kastav",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Frlani,+Kastav",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Kastav",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Re\u0161etari,+Kastav",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Rube\u0161i,+Kastav",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Spin\u010di\u0107i,+Kastav",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=\u017degoti,+Kastav",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Breza,+Klana",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Klana",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Lisac,+Klana",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Dori\u010di\u0107i,+Kostrena",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Glavani,+Kostrena",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Kostrena",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Kostrena+Sveta+Barbara,+Kostrena",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Kostrena+Sveta+Lucija,+Kostrena",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Martin\u0161\u0107ica,+Kostrena",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Paveki,+Kostrena",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Ro\u017emani\u0107i,+Kostrena",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=\u0160odi\u0107i,+Kostrena",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Urinj,+Kostrena",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=\u017duknica,+Kostrena",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Kraljevica",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Kri\u017ei\u0161\u0107e,+Kraljevica",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=\u0160mrika,+Kraljevica",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Baj\u010di\u0107i,+Krk",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Brzac,+Krk",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Korni\u0107,+Krk",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Krk",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Lakmartin,+Krk",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Linardi\u0107i,+Krk",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Milohni\u0107i,+Krk",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Vrh,+Krk",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Lokve",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Liganj,+Lovran",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Lovran",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Lovranska+Draga,+Lovran",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Mali+Lo\u0161inj",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Punta+Kri\u017ea,+Mali+Lo\u0161inj",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Sveti+Jakov,+Mali+Lo\u0161inj",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Bogovi\u0107i,+Malinska-Duba\u0161nica",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Kremeni\u0107i,+Malinska-Duba\u0161nica",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Malinska,+Malinska-Duba\u0161nica",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Malinska-Duba\u0161nica",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Mil\u010deti\u0107i,+Malinska-Duba\u0161nica",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Vanta\u010di\u0107i,+Malinska-Duba\u0161nica",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Bregi,+Matulji",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Jurdani,+Matulji",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Ju\u0161i\u0107i,+Matulji",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Lipa,+Matulji",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Male+Mune,+Matulji",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Mali+Brgud,+Matulji",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Matulji",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Mihoti\u0107i,+Matulji",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Mu\u010di\u0107i,+Matulji",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Permani,+Matulji",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Rukavac,+Matulji",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=\u0160apjane,+Matulji",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Veli+Brgud,+Matulji",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Zvone\u0107a,+Matulji",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Brse\u010d,+Mo\u0161\u0107eni\u010dka+Draga",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Mo\u0161\u0107eni\u010dka+Draga",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Begovo+Razdolje,+Mrkopalj",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Mrkopalj",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Sunger,+Mrkopalj",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Tuk+Vojni,+Mrkopalj",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Bater,+Novi+Vinodolski",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Donji+Zagon,+Novi+Vinodolski",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Klenovica,+Novi+Vinodolski",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Novi+Vinodolski",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Povile,+Novi+Vinodolski",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Smokvica+Krmpotska,+Novi+Vinodolski",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Njivice,+Omi\u0161alj",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Omi\u0161alj",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Kosi\u0107evo,+Opatija",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Opatija",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Opatija+-+Centar,+Opatija",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Volosko,+Opatija",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Vrutki,+Opatija",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=I\u010di\u0107i,+Opatija+-+Okolica",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Ika,+Opatija+-+Okolica",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Opatija+-+Okolica",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Pobri,+Opatija+-+Okolica",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Poljane,+Opatija+-+Okolica",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Veprinac,+Opatija+-+Okolica",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Punat",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Stara+Ba\u0161ka,+Punat",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Banjol,+Rab",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Barbat+na+Rabu,+Rab",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Kampor,+Rab",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Lopar,+Rab",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Mundanije,+Rab",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Palit,+Rab",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Rab",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Supetarska+Draga,+Rab",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Kupjak,+Ravna+Gora",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Ravna+Gora",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Stari+Laz,+Ravna+Gora",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Banderovo,+Rijeka",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Belveder,+Rijeka",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Bivio,+Rijeka",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Brajda,+Rijeka",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Bulevard,+Rijeka",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Centar,+Rijeka",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Donja+Ve\u017eica,+Rijeka",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Draga,+Rijeka",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Drenova,+Rijeka",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Gornja+Ve\u017eica,+Rijeka",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Hosti,+Rijeka",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Kantrida,+Rijeka",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Kozala,+Rijeka",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Krimeja,+Rijeka",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Krnjevo,+Rijeka",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Mar\u010deljeva+Draga,+Rijeka",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Martinkovac,+Rijeka",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Mlaka,+Rijeka",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Pe\u0107ine,+Rijeka",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Pehlin,+Rijeka",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Podmurvice,+Rijeka",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Potok,+Rijeka",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Pulac,+Rijeka",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Rasto\u010dine,+Rijeka",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Rijeka",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=\u0160kolji\u0107,+Rijeka",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=\u0160kurinje,+Rijeka",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Srdo\u010di,+Rijeka",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Su\u0161ak,+Rijeka",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Sveti+Kuzam,+Rijeka",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Svilno,+Rijeka",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Trsat,+Rijeka",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Turni\u0107,+Rijeka",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Vojak,+Rijeka",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Zamet,+Rijeka",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Bukov+Vrh,+Skrad",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Divjake,+Skrad",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Skrad",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Bribir,+Vinodolska+Op\u0107ina",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Drivenik,+Vinodolska+Op\u0107ina",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Gri\u017eane-Belgrad,+Vinodolska+Op\u0107ina",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Tribalj,+Vinodolska+Op\u0107ina",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Vinodolska+Op\u0107ina",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Kosi,+Vi\u0161kovo",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Mar\u010delji,+Vi\u0161kovo",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Marini\u0107i,+Vi\u0161kovo",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Mladeni\u0107i,+Vi\u0161kovo",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Sar\u0161oni,+Vi\u0161kovo",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Sroki,+Vi\u0161kovo",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Vi\u0161kovo",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Vrbnik",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Dokmanovi\u0107i,+Vrbovsko",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Hambari\u0161te,+Vrbovsko",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Moravice,+Vrbovsko",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Severin+na+Kupi,+Vrbovsko",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Ti\u0107i,+Vrbovsko",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Vrbovsko",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Jelsa",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Vrboska,+Jelsa",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=\u010ciovo,+Trogir",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Trogir",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Jezera,+Tisno",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Tisno",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Vodice",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Biograd+na+Moru",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Kru\u0161evo,+Obrovac",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Obrovac",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Dinji\u0161ka,+Pag",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Pag",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Pa\u0161man",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=\u017ddrelac,+Pa\u0161man",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Povljana",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Ra\u017eanac",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Seline,+Starigrad",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Starigrad",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Sveti+Filip+I+Jakov",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Turanj,+Sveti+Filip+I+Jakov",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Ist,+Zadar+-+Okolica",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Premuda,+Zadar+-+Okolica",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Silba,+Zadar+-+Okolica",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Zadar+-+Okolica",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Dubrava",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Habjanovac,+Dubrava",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Tar,+Tar-Vabriga",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Tar-Vabriga",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Vabriga,+Tar-Vabriga",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Vrsi",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Kolan",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  },
+  {
+    "url": "https://nekretninecrikvenica.net/listings/results?id_transaction=2&location=Mandre,+Kolan",
+    "meta": {
+      "type": "rent_strict",
+      "location_ids": [
+        "CONSTANT"
+      ]
+    }
+  }
+]
